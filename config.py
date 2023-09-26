@@ -1,0 +1,2 @@
+keyBot = '6408196451:AAFmtLgeHBT3ljVYMYd_euFVmuXSFJd1JYA'
+keyNews = '8e51f572f7734920bae34a0a4f79d072'
